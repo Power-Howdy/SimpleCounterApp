@@ -1,0 +1,32 @@
+{
+  "contracts": {
+    "MyContract": "29ebd2484c749438148b5251e19be37a5e16a60c",
+    "SimpleCounter": "649c531da2b374e4dbd81e865bd47d9b738786a4"
+  },
+  "tests": {
+    "tests/test_simple_counter.py": {
+      "coverage": false,
+      "isolated": false,
+      "results": "...",
+      "sha1": "5f35fa4dc7e940b3408040aa6f6373f13ca7283f",
+      "txhash": [
+        "07beaa3a2c059a21ac4e4c4ba6e5396ff0babba5"
+      ]
+    }
+  },
+  "tx": {
+    "07beaa3a2c059a21ac4e4c4ba6e5396ff0babba5": {
+      "SimpleCounter": {
+        "1": [
+          [
+            1
+          ],
+          [
+            4
+          ],
+          []
+        ]
+      }
+    }
+  }
+}
